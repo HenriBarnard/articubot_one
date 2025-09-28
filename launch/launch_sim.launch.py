@@ -158,4 +158,3 @@ def generate_launch_description():
         ros_gz_bridge,
         ros_gz_image_bridge
     ])
-#ahjsbdjahsbdjhasbdjhasbdjh
