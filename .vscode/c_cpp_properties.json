@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/henri/robot_ws/install/serial/include/**",
+        "/home/henri/skripsie_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/henri/skripsie_ws/install/serial/include/**",
+        "/home/henri/skripsie_ws/install/ldlidar_component/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/henri/robot_ws/src/diffdrive_arduino/include/**",
+        "/home/henri/robot_ws/src/serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

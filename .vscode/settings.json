@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/henri/ros2_ws/build/my_py_pkg",
+        "/home/henri/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/build/serial_motor_demo",
+        "/home/henri/skripsie_ws/install/serial_motor_demo/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/install/serial_motor_demo_msgs/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/build/motor_py_pkg",
+        "/home/henri/skripsie_ws/install/motor_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/henri/ros2_ws/build/my_py_pkg",
+        "/home/henri/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/build/serial_motor_demo",
+        "/home/henri/skripsie_ws/install/serial_motor_demo/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/install/serial_motor_demo_msgs/lib/python3.12/site-packages",
+        "/home/henri/skripsie_ws/build/motor_py_pkg",
+        "/home/henri/skripsie_ws/install/motor_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
